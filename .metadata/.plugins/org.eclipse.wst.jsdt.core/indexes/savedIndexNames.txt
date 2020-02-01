@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\workSpace\chamomile\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3772238203.index
+587801142.index
+3729907099.index
+1857310438.index
+2561068576.index
+1578750056.index
